@@ -26,6 +26,6 @@ document.getElementById('actionButton').addEventListener('click', function () {
         });
     } else if (clickCount === 3) {
         // Ketiga: Pergi ke website lain
-        window.location.href = "https://www.contoh-website-romantis.com";
+        window.location.href = "https://youtu.be/6NsfXcpYJto";
     }
 });
